@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Full stack software engineer with a passion for building projects that will change the world<br>🤝 Always looking to collaborate on cool open source tools that will benefit developers<br>🌱 I’m currently learning advanced application design patterns and microservice architecture<br>💬 Ask me about VaaS, a kubernetes health and monitoring tool for OpenFaas Devs<br>⚡ Aside from programming I love playing soccer and video games<br><br> Check out my website: https://rabea.io/
+🔭 Full stack software engineer with a passion for building projects that will change the world<br>🤝 Always looking to collaborate on cool open source tools with new tech <br>🌱 I’m currently learning about Designing Data Intensive Applications<br>💬 Ask me about VaaS, a kubernetes health and monitoring tool for OpenFaas Devs<br>⚽ When I am not coding, you can catch me playing soccer!<br><br> Check out my website: https://rabea.io/
 
 
 ## 🌐 Socials:
