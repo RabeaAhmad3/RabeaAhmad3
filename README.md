@@ -1,5 +1,5 @@
 # About Me:
-🔭 Full stack software engineer with a passion for building projects that will change the world<br>🤝 Always looking to collaborate on cool open source tools with new tech <br>🌱 I’m currently learning about Designing Data Intensive Applications<br>💬 Ask me about https://voltly.io, an all in one tool to monitor your energy usage needs across properties<br>⚽ When I am not coding, you can catch me playing soccer!<br><br>
+Cofounder of BZAR<br> https://bzar.app<br><br>
 
 
 ## 🌐 Socials:
